@@ -1,6 +1,6 @@
 ## Welcome to my GitHub page!
 
-#### I am a third year Economics Ph.D. student at University of Houston. My research focuses on Macroeconomics, Labor Economics, Economic Growth and International Trade.
+#### I am a third year Economics Ph.D. student at University of Houston. My research focuses on Macroeconomics, Labor Economics, Economic Inequality and Economic Growth.
 
 ### Languages and Tools:
 <img align="left" alt="Fortran" width="26px" 
