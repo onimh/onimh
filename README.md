@@ -1,6 +1,6 @@
-## Welcome to my GitHub page!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=onimh&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=onimh&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+## Welcome to my GitHub page!
 
 #### I am a third year Economics Ph.D. student at University of Houston. My research focuses on Macroeconomics, Labor Economics, Economic Inequality and Economic Growth.
 
