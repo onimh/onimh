@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onimh&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=onimh&label=Views&color=blue&style=plastic"/> </p>
 
 ## Welcome to my GitHub page!
 
