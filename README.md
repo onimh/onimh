@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub page!
 
-#### I am a Ph.D. candidate in Economics at the University of Houston. My research focuses on Macroeconomics, Labor Economics, Economic Inequality and Economic Growth.
+#### I am a Ph.D. candidate in Economics at the University of Houston. My research focuses on Macroeconomics, Labor Economics, and Public Finance.
 
 ### Languages and Tools:
 <img align="left" alt="Fortran" width="26px" 
