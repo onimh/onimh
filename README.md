@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub page!
 
-#### I am a Ph.D. candidate in Economics at the University of Houston. My research focuses on Macroeconomics, Economic Inequality, Environmental Economics, and Public Finance.
+#### I am a Visiting Assistant Professor in Economics at the University of Arkansas. My research focuses on Macroeconomics, Economic Inequality, Environmental Economics, and Public Finance.
 
 ### Languages and Tools:
 <img align="left" alt="Latex" width="26px" 
